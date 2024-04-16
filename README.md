@@ -1,0 +1,1 @@
+Welcome to my personal repository of Bash script projects! Here, you'll find a collection of various Bash scripts that I've developed over time. From simple utilities to more complex automation tasks, these scripts represent my journey in mastering Bash scripting.
